@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-from __future__ import absolute_import, print_function
+#from __future__ import absolute_import, print_function
 from CredData import * #API Credentials are matinaed in a seperate file
 from tweepy.streaming import StreamListener
 from tweepy import OAuthHandler
